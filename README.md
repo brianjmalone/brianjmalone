@@ -1,7 +1,8 @@
 # Wetworks to Networks
 
 ---
-**Background:** Ph.D. in Neural Science (NYU), 20+ years in systems/computational neuroscience (UCLA, UCSF, UC Davis) on sensation and perception. 
+****Background:****
+Ph.D. in Neural Science (NYU), 20+ years in systems/computational neuroscience (UCLA, UCSF, UC Davis) on sensation and perception. 
 ---
 
 I spent 20+ years recording from neurons in animal brains—neurosurgery, actual electrodes, and microdrives. Oddly enough, neurophysiology experiments feel a lot like being a radio operator on a submarine. 
