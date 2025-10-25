@@ -4,7 +4,7 @@ I spent 20+ years recording from neurons in animal brains—actual electrodes, a
 
 Computational neuroscientist transitioning to data science and AI engineering. I'm documenting the journey from academic MATLAB to production Python, from single-investigator projects to collaborative engineering, from "publish when perfect" to learning out loud.
 
-→ **[Browse my project index]([link-to-index-gist](https://gist.github.com/brianjmalone/6ac6b1cde1f44fa414aebc50b8e2ee77))** ← (organized by topic, includes links back to older work)
+→ **[Browse my project index]([[link-to-index-gist](https://gist.github.com/brianjmalone/6ac6b1cde1f44fa414aebc50b8e2ee77)](https://gist.github.com/brianjmalone/6ac6b1cde1f44fa414aebc50b8e2ee77))** ← (organized by topic, includes links back to older work)
 
 ---
 
