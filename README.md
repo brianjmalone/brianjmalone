@@ -2,6 +2,7 @@
 
 ---
 ****Background:****
+
 Ph.D. in Neural Science (NYU), 20+ years in systems/computational neuroscience (UCLA, UCSF, UC Davis) on sensation and perception. 
 ---
 
