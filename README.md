@@ -15,4 +15,6 @@ Computational neuroscientist transitioning to data science and AI engineering. I
 
 **Background:** Ph.D. in Neural Science (NYU), 20+ years in systems/computational neuroscience (UCLA, UCSF, UC Davis) on sensation and perception. 
 
-**Find me:** [LinkedIn](your-linkedin) | bjmalone.career@gmail.com
+---
+
+**Connect:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:bjmalone.career@gmail.com) | [Google Scholar](your-scholar-link)
