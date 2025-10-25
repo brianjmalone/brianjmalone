@@ -17,4 +17,4 @@ Computational neuroscientist transitioning to data science and AI engineering. I
 
 ---
 
-**Connect:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:bjmalone.career@gmail.com) | [Google Scholar](your-scholar-link)
+**Connect:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:bjmalone.career@gmail.com) | [Google Scholar]([your-scholar-link](https://scholar.google.com/citations?user=UlVzhxgAAAAJ&hl=en))
