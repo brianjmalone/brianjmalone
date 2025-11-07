@@ -4,9 +4,7 @@ I spent 20+ years recording from neurons in actual brains—neurosurgery, electr
 
 Here, I'm documenting what I'm learning about building scalable, production-grade systems, talking about frameworks and tooling, and archiving Lessons Learned to help people on similar paths. 
 
-In addition to code repos, I also have a "GistHub" to collect thoughts and articles. 
-
-→ **[Browse my "gisthub"](https://gist.github.com/brianjmalone/6ac6b1cde1f44fa414aebc50b8e2ee77)** ← (organized by topic, includes links back to older work)
+In addition to code repos, I also have a ["GistHub"](https://gist.github.com/brianjmalone/6ac6b1cde1f44fa414aebc50b8e2ee77) to collect thoughts and articles. 
 
 ---
 
