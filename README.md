@@ -1,8 +1,8 @@
-# Networks and wet work
+# Neural Networking *in vivo* and *in silico*
 
 I spent 20+ years recording from neurons in actual brains—neurosurgery, electrodes, microdrives—the whole thing. I'm interested in building ML systems and leveraging AI tools for answering questions in science and beyond. 
 
-Here, I'm documenting what I'm learning about building scalable, production-grade systems, talking about favorite tools (e.g., uv, fd, and rg), and archiving Lessons Learned to help people on similar paths. 
+Here, I'm documenting what I'm learning about building scalable, production-grade systems, talking about frameworks and tooling, and archiving Lessons Learned to help people on similar paths. 
 
 In addition to code repos, I also have a "GistHub" to collect thoughts and articles. 
 
