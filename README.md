@@ -1,6 +1,6 @@
 # Neural Networking *in vivo* and *in silico*
 
-I am interested in intelligent systems, learning representations, building ML systems, and leveraging AI tools for research and analytics, both in basic science and beyond.
+I am interested in intelligent systems, learning representations, building ML systems, and leveraging AI tools for research and analytics in basic science and beyond.
 
 Here, I'm documenting what I'm learning about building scalable, production-grade systems, talking about frameworks and tooling, and archiving Lessons Learned to help people on similar paths.
 
