@@ -2,7 +2,7 @@
 
 I am interested in intelligent systems, learning representations, building ML systems, and leveraging AI tools for research and analytics in basic science and beyond. I help people distill information into knowledge so they can make informed decisions and reason from first principles about their challenges. 
 
-Here, I'm documenting what I'm learning about building scalable, production-grade systems, talking about frameworks and tooling, and archiving Lessons Learned to help people on similar paths [here](https://gist.github.com/brianjmalone/6ac6b1cde1f44fa414aebc50b8e2ee77). 
+Here, I'm documenting what I'm learning about building scalable, production-grade systems, talking about frameworks and tooling, and archiving Lessons Learned to help people on similar paths on my ["Gisthub"](https://gist.github.com/brianjmalone/6ac6b1cde1f44fa414aebc50b8e2ee77). 
 
 **What I'm working on:**
 - Production-grade ML pipelines for complex, high-dimensional data
