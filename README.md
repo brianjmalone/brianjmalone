@@ -1,6 +1,6 @@
 # Neural Networking *in vivo* and *in silico*
 
-I am interested in intelligent systems, learning representations, building ML systems, and leveraging AI tools for research and deep analysis in basic science and beyond. 
+I'm interested in intelligent systems, representation learning, and building ML systems that bridge rigorous science and real-world applications.
 
 💼 Open to ML/AI Engineering and Data Science opportunities. Excited about hard, impactful problems. 
 
